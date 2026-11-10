@@ -1,9 +1,5 @@
 # Chat TCP: teste de capacidade de transmissão
 
-Trabalho da disciplina Redes de Computadores (Unifesp), professor Arlindo Flávio da Conceição.
-
-Este repositório contém o cliente e o servidor de um chat TCP em C, modificados para medir a taxa de transmissão agregada dos clientes para o servidor, com 1 a 10 clientes simultâneos.
-
 ## Integrantes
 
 | Nome | Matrícula |
