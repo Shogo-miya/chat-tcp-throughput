@@ -108,5 +108,3 @@ Testes em loopback, em um Dell OptiPlex 7010 (Intel Core i5-3470, 4 núcleos, 3,
 | 10 | 60 098 | 61 886 |
 
 ![Throughput agregado por número de clientes](grafico.png)
-
-A taxa quase dobra de 1 para 2 clientes e depois fica entre 60 e 69 Gbps.
