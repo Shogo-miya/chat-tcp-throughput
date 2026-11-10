@@ -1,0 +1,8 @@
+# executaveis compilados
+chat_server
+chat_client
+*.o
+
+# Python
+__pycache__/
+*.pyc

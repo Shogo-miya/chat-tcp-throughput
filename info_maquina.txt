@@ -1,0 +1,45 @@
+== Data ==
+ter 10 nov 2026 19:12:22 -03
+
+== Modelo do computador ==
+Dell Inc.
+OptiPlex 7010
+
+== Processador ==
+CPU(s):                                 4
+Nome do modelo:                         Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+Thread(s) per núcleo:                   1
+CPU(s) scaling MHz:                     74%
+CPU MHz máx.:                           3600,0000
+CPU MHz mín.:                           1600,0000
+CPU(s) de nó0 NUMA:                     0-3
+
+== Memoria RAM ==
+total       usada       livre    compart.  buff/cache  disponível
+Mem.:          3,7Gi       2,2Gi       446Mi       222Mi       1,5Gi       1,5Gi
+Swap:          4,7Gi        22Mi       4,6Gi
+
+== Sistema operacional ==
+PRETTY_NAME="Debian GNU/Linux 12 (bookworm)"
+
+== Kernel ==
+6.1.0-31-amd64
+
+== Compilador ==
+gcc (Debian 12.2.0-14) 12.2.0
+
+== Python ==
+Python 3.12.7
+
+== Governor de CPU (modo de energia) ==
+schedutil
+
+== Interface de loopback (usada no teste) ==
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    inet 127.0.0.1/8 scope host lo
+
+== Interfaces de rede ==
+lo               UNKNOWN        127.0.0.1/8 ::1/128 
+eno1             UP             172.21.218.165/22 fe80::7a2b:cbff:febf:5e81/64 
+docker0          DOWN           172.17.0.1/16
+
